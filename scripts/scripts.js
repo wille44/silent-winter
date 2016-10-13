@@ -1,5 +1,5 @@
-var today = new date();
-var hourNow = today.gethour();
+var today = new Date();
+var hourNow = today.getHours();
 var greeting; 
 
 if (hourNow > 18) {
